@@ -61,4 +61,4 @@ Enables tracking of key performance indicators (KPIs)
 
 **Live Dashboard**
 
-()
+(https://app.powerbi.com/groups/me/reports/a2105069-81fc-4552-8bf0-8a9dc2225efd/75d4adbc33b0039d9612?experience=power-bi)
